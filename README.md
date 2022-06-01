@@ -3,14 +3,15 @@
 
 Typescript로 블록체인 만들기
 
-setting
-    npm init -y
-    npm i -D typescript (npm i typescript --save-dev)
-    npx tsc --init
+- setting
 
-tsconfig.json setting
+    1. npm init -y
+    2. npm i -D typescript (npm i typescript --save-dev)
+    3. npx tsc --init
 
-build -> npm run build
+- tsconfig.json setting
+
+- build -> npm run build
   "scripts": {
     "build": "tsc"
   },
